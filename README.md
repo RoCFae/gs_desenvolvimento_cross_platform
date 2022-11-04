@@ -1,0 +1,1 @@
+# gs_desenvolvimento_cross_platform
